@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Murtaza
 - 👀 I’m interested in Software Development and Machine Learning
-- 💞️ I’m looking to collaborate on anything related to game development, machine learning, or devOps
+- I’m looking to collaborate on anything related to development, machine learning, or devOps
 - 📫 How to reach me murikhalid.2525@live.com
